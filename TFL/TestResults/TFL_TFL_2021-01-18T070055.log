@@ -1,0 +1,79 @@
+﻿2021-01-18T07:00:54.8699617+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-01-18T07:00:54.8699617+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.4.19 in Framework clr40 in x86 mode execution started
+2021-01-18T07:00:54.8699617+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-01-18T07:00:54.8707630+00:00;VSTestExecutionThread;Info;Current UserName: 'Bhagirath.Vaghela', MachineName: 'UK-LAP-017719'
+2021-01-18T07:00:55.3659624+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\TFL.dll
+2021-01-18T07:00:55.3674885+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\TestResults" (default)
+2021-01-18T07:00:55.3680127+00:00;VSTestExecutionThread;Info;Profile: TFL
+2021-01-18T07:00:55.5175592+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\TestResults\TFL_TFL_2021-01-18T070055.log
+2021-01-18T07:00:55.5395519+00:00;Thread#13;Info;Checking activation
+2021-01-18T07:00:55.7357100+00:00;Thread#13;Info;Activated.
+2021-01-18T07:00:55.7364239+00:00;Thread#13;Info;Activation check completed
+2021-01-18T07:00:55.7364239+00:00;Thread#13;Info;Starting test run
+2021-01-18T07:00:55.8670768+00:00;Thread#13;Info;Discovering target: Default
+2021-01-18T07:00:55.8670768+00:00;Thread#13;Info;Discovering tests from assembly: C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\TFL.dll
+2021-01-18T07:00:56.7183371+00:00;Thread#13;Info;Discovered tests from assembly: C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\TFL.dll
+2021-01-18T07:00:56.7203324+00:00:Test Suite Dump
+2021-01-18T07:00:56.7233236+00:00:#0: TFL/TFL - 
+2021-01-18T07:00:56.7233236+00:00:#1: Default - 
+2021-01-18T07:00:56.7233236+00:00:#2: TFL - 
+2021-01-18T07:00:56.7233236+00:00:#3: Journey Planner - 
+2021-01-18T07:00:56.8100930+00:00:#5: Verify Invalid Journey - invalid location - TestAssembly:TFL/Feature:Journey+Planner/Scenario:Verify+Invalid+Journey+-+invalid+location
+2021-01-18T07:00:56.8100930+00:00:End: Test Suite Dump
+2021-01-18T07:00:56.8850412+00:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-18T07:00:56.9029932+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-01-18T07:00:56.9029932+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-01-18T07:00:56.9169564+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-18T07:00:56.9169564+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-01-18T07:00:56.9169564+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:True
+2021-01-18T07:00:56.9169564+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-01-18T07:00:56.9219496+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-01-18T07:00:56.9249353+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-18T07:00:56.9339112+00:00:Thread #0: creating new test thread executor for TFL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-01-18T07:00:56.9388973+00:00:Thread#1:Scheduler: get next test for thread 1
+2021-01-18T07:00:56.9388973+00:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-18T07:00:56.9388973+00:00:Thread#1:Scheduler: enumerator for thread is at end
+2021-01-18T07:00:56.9388973+00:00:Thread#1:Scheduler: No more tests for thread
+2021-01-18T07:00:56.9419550+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-01-18T07:00:56.9509031+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-01-18T07:00:56.9538671+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-01-18T07:00:57.5592802+00:00:Thread#0:T:-> Loading plugin C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\LivingDoc.SpecFlowPlugin.dll
+2021-01-18T07:00:57.5872567+00:00:Thread#0:T:-> Loading plugin C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-01-18T07:00:57.6034093+00:00:Thread#0:T:-> Using app.config
+2021-01-18T07:00:58.7542954+00:00:Thread#0: Test #5/0 is started on thread #0
+2021-01-18T07:01:06.4353832+00:00:Thread#0:B:Given I go to Journey planner on Tfl
+2021-01-18T07:01:14.8446748+00:00:Thread#0:T:done: JourneyPlannerSteps.GivenIGoToJourneyPlannerOnTfl(Tfl) (8.3s)
+2021-01-18T07:01:14.8477187+00:00:Thread#0:B:And I enter invalid locations Queensbury Underground Station and isanpur
+2021-01-18T07:01:16.3486488+00:00:Thread#0:T:done: JourneyPlannerSteps.GivenIEnterInvalidLocationsQueensburyUndergroundStationAndIsanpur("Queensbury Underg...", "isanpur") (1.5s)
+2021-01-18T07:01:16.3496995+00:00:Thread#0:B:When I click on Plan my journey button
+2021-01-18T07:01:18.7759228+00:00:Thread#0:T:done: JourneyPlannerSteps.WhenIClickOnPlanMyJourneyButton() (2.4s)
+2021-01-18T07:01:18.7769158+00:00:Thread#0:B:Then I should see location not maching message Journey results
+2021-01-18T07:01:21.3438487+00:00:Thread#0:T:done: JourneyPlannerSteps.ThenIShouldSeeLocationNotMachingMessageJourneyResults() (2.6s)
+2021-01-18T07:01:21.3668577+00:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-18T07:01:21.3668577+00:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-18T07:01:21.3677839+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-01-18T07:01:21.3677839+00:00:Thread#0:Scheduler: No more tests for thread
+2021-01-18T07:01:24.5652942+00:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 25.8099976 seconds
+2021-01-18T07:01:25.8387059+00:00:Trying to cancel thread
+2021-01-18T07:01:25.8387059+00:00:Thread cancelled
+2021-01-18T07:01:25.8387059+00:00:Trying to cancel thread
+2021-01-18T07:01:25.8387059+00:00:Thread cancelled
+2021-01-18T07:01:25.8506772+00:00:Thread#-1:Scheduler: get next test for thread -1
+2021-01-18T07:01:25.8506772+00:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-18T07:01:25.8506772+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-01-18T07:01:25.8549464+00:00;Thread#13;Info;test run finished
+2021-01-18T07:01:25.8549464+00:00;Thread#13;Info;publishing test results
+2021-01-18T07:01:26.0061010+00:00;Thread#13;Info;test results published
+2021-01-18T07:01:26.0061010+00:00;Thread#13;Info;generating reports
+2021-01-18T07:01:26.1989368+00:00;Thread#13;Info;Starting external report generation process
+2021-01-18T07:01:29.4225505+00:00;Thread#13;Info;Successfully generated reports.
+2021-01-18T07:01:29.4250555+00:00;Thread#13;Info;Successfully generated reports
+2021-01-18T07:01:29.4395474+00:00:Total: 1
+2021-01-18T07:01:29.4424966+00:00:Succeeded: 1
+2021-01-18T07:01:29.4434945+00:00:Ignored: 0
+2021-01-18T07:01:29.4444919+00:00:Pending: 0
+2021-01-18T07:01:29.4444919+00:00:Skipped: 0
+2021-01-18T07:01:29.4454893+00:00:Failed: 0
+2021-01-18T07:01:29.5093187+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-01-18T07:01:29.5093187+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\TestResults\TFL_TFL_2021-01-18T070055.html'
+========== End of log file ==========

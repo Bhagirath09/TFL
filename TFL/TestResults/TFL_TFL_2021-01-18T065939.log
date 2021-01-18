@@ -1,0 +1,124 @@
+﻿2021-01-18T06:59:38.7212527+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-01-18T06:59:38.7212527+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.4.19 in Framework clr40 in x86 mode execution started
+2021-01-18T06:59:38.7212527+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-01-18T06:59:38.7221723+00:00;VSTestExecutionThread;Info;Current UserName: 'Bhagirath.Vaghela', MachineName: 'UK-LAP-017719'
+2021-01-18T06:59:39.0366663+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\TFL.dll
+2021-01-18T06:59:39.0376616+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\TestResults" (default)
+2021-01-18T06:59:39.0376616+00:00;VSTestExecutionThread;Info;Profile: TFL
+2021-01-18T06:59:39.1313181+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\TestResults\TFL_TFL_2021-01-18T065939.log
+2021-01-18T06:59:39.1412636+00:00;Thread#13;Info;Checking activation
+2021-01-18T06:59:39.2405126+00:00;Thread#13;Info;Activated.
+2021-01-18T06:59:39.2405126+00:00;Thread#13;Info;Activation check completed
+2021-01-18T06:59:39.2405126+00:00;Thread#13;Info;Starting test run
+2021-01-18T06:59:39.3203002+00:00;Thread#13;Info;Discovering target: Default
+2021-01-18T06:59:39.3213607+00:00;Thread#13;Info;Discovering tests from assembly: C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\TFL.dll
+2021-01-18T06:59:40.2190205+00:00;Thread#13;Info;Discovered tests from assembly: C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\TFL.dll
+2021-01-18T06:59:40.2210355+00:00:Test Suite Dump
+2021-01-18T06:59:40.2240062+00:00:#0: TFL/TFL - 
+2021-01-18T06:59:40.2240062+00:00:#1: Default - 
+2021-01-18T06:59:40.2240062+00:00:#2: TFL - 
+2021-01-18T06:59:40.2240062+00:00:#3: Journey Planner - 
+2021-01-18T06:59:40.2928627+00:00:#4: Verify Valid Journey - TestAssembly:TFL/Feature:Journey+Planner/Scenario:Verify+Valid+Journey
+2021-01-18T06:59:40.2928627+00:00:#5: Verify Invalid Journey - invalid location - TestAssembly:TFL/Feature:Journey+Planner/Scenario:Verify+Invalid+Journey+-+invalid+location
+2021-01-18T06:59:40.2928627+00:00:#6: Verify Invalid Journey - no location - TestAssembly:TFL/Feature:Journey+Planner/Scenario:Verify+Invalid+Journey+-+no+location
+2021-01-18T06:59:40.2928627+00:00:#7: Verify journey can be amended by using Edit journey - TestAssembly:TFL/Feature:Journey+Planner/Scenario:Verify+journey+can+be+amended+by+using+Edit+journey
+2021-01-18T06:59:40.2928627+00:00:#8: Verify recent journey list - TestAssembly:TFL/Feature:Journey+Planner/Scenario:Verify+recent+journey+list
+2021-01-18T06:59:40.2928627+00:00:End: Test Suite Dump
+2021-01-18T06:59:40.3247732+00:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-18T06:59:40.3267683+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-01-18T06:59:40.3267683+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-01-18T06:59:40.3377049+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-18T06:59:40.3377049+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-01-18T06:59:40.3377049+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:True
+2021-01-18T06:59:40.3377049+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-01-18T06:59:40.3387297+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-01-18T06:59:40.3397001+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-18T06:59:40.3397001+00:00:Thread#1:Scheduler: get next test for thread 1
+2021-01-18T06:59:40.3397001+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-01-18T06:59:40.3397001+00:00:Thread#1:Scheduler: considering testitem #5 for thread 1
+2021-01-18T06:59:40.3397001+00:00:Thread#1:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-18T06:59:40.3397001+00:00:Thread#1:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-01-18T06:59:40.3397001+00:00:Thread#1:TestItem#5:runsOnOneOtherThreadUnspecific:True
+2021-01-18T06:59:40.3397001+00:00:Thread#1:Scheduler: using testitem #5 for thread 1
+2021-01-18T06:59:40.3397001+00:00:Thread#1:Scheduler: Test #5 is scheduled for thread
+2021-01-18T06:59:40.3397001+00:00:Thread#1:Scheduler: with testItemExecutionIndex 0
+2021-01-18T06:59:40.3436882+00:00:Thread #1: creating new test thread executor for TFL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-01-18T06:59:40.3436882+00:00:Thread #0: creating new test thread executor for TFL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-01-18T06:59:40.3456845+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-01-18T06:59:40.3456845+00:00:Thread #1: Creating test assembly executor for execution model AppDomain
+2021-01-18T06:59:40.3537888+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-01-18T06:59:40.3537888+00:00:Thread #1: Creating test assembly executor for execution model AppDomain
+2021-01-18T06:59:40.3556566+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-01-18T06:59:40.3576790+00:00:Thread #1: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-01-18T06:59:40.8703925+00:00:Thread#0:T:-> Loading plugin C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\LivingDoc.SpecFlowPlugin.dll
+2021-01-18T06:59:40.8712886+00:00:Thread#1:T:-> Loading plugin C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\LivingDoc.SpecFlowPlugin.dll
+2021-01-18T06:59:40.8882840+00:00:Thread#0:T:-> Loading plugin C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-01-18T06:59:40.8892410+00:00:Thread#1:T:-> Loading plugin C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\bin\Debug\net472\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-01-18T06:59:40.9022076+00:00:Thread#1:T:-> Using app.config
+2021-01-18T06:59:40.9032048+00:00:Thread#0:T:-> Using app.config
+2021-01-18T06:59:41.6745696+00:00:Thread#1: Test #5/0 is started on thread #1
+2021-01-18T06:59:41.6795561+00:00:Thread#0: Test #4/0 is started on thread #0
+2021-01-18T06:59:49.3202008+00:00:Thread#0:B:Given I go to Journey planner on Tfl
+2021-01-18T06:59:50.8758965+00:00:Thread#1:B:Given I go to Journey planner on Tfl
+2021-01-18T07:00:02.1174695+00:00:Thread#0:T:done: JourneyPlannerSteps.GivenIGoToJourneyPlannerOnTfl(Tfl) (12.7s)
+2021-01-18T07:00:02.1204557+00:00:Thread#0:B:And I enter valid locations Queensbury Underground Station and Camden Underground Station
+2021-01-18T07:00:02.7114535+00:00:Thread#1:T:done: JourneyPlannerSteps.GivenIGoToJourneyPlannerOnTfl(Tfl) (11.8s)
+2021-01-18T07:00:02.7134479+00:00:Thread#1:B:And I enter invalid locations Queensbury Underground Station and isanpur
+2021-01-18T07:00:05.0512465+00:00:Thread#0:T:done: JourneyPlannerSteps.GivenIEnterValidLocationsQueensburyAndCamden("Queensbury Underg...", "Camden Undergroun...") (2.9s)
+2021-01-18T07:00:05.0522595+00:00:Thread#0:B:When I click on Plan my journey button
+2021-01-18T07:00:06.6203183+00:00:Thread#1:T:error: element click intercepted: Element <input aria-autocomplete="list" aria-expanded="true" class="jpTo tt-input" data-autocorrect="off" data-placeholder-blur="To" data-placeholder-focus="Place or address" data-send="true" data-val="true" data-val-required="The To field is required." id="InputTo" maxlength="100" name="InputTo" placeholder="To" role="combobox" type="text" value="" autocomplete="off" autocorrect="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"> is not clickable at point (580, 635). Other element would receive the click: <span id="stop-points-search-suggestion-0" class="stop-name" data-id="940GZZLUQBY" role="option" style="white-space: normal;">...</span>
+2021-01-18T07:00:06.6212641+00:00:Thread#1:T:  (Session info: chrome=87.0.4280.141)
+2021-01-18T07:00:06.6222625+00:00:Thread#1:B:When I click on Plan my journey button
+2021-01-18T07:00:06.6392982+00:00:Thread#1:T:skipped because of previous errors
+2021-01-18T07:00:06.6860928+00:00:Thread#1:B:Then I should see location not maching message Journey results
+2021-01-18T07:00:06.6860928+00:00:Thread#1:T:skipped because of previous errors
+2021-01-18T07:00:06.9285143+00:00:Cancelling because configured number of failures reached
+2021-01-18T07:00:08.3818490+00:00:Thread#0:T:done: JourneyPlannerSteps.WhenIClickOnPlanMyJourneyButton() (3.3s)
+2021-01-18T07:00:08.3828474+00:00:Thread#0:B:Then I should see Journey results
+2021-01-18T07:00:11.1604710+00:00:Thread#0:T:done: JourneyPlannerSteps.ThenIShouldSeeJourneyResults() (2.8s)
+2021-01-18T07:00:13.3940014+00:00:Thread#1: Test #5/0 is finished on thread #1 as Failed within 31.7183432 seconds
+2021-01-18T07:00:13.7920227+00:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 32.1124666 seconds
+2021-01-18T07:00:15.3243656+00:00:Trying to cancel thread
+2021-01-18T07:00:15.3243656+00:00:Thread cancelled
+2021-01-18T07:00:15.3243656+00:00:Trying to cancel thread
+2021-01-18T07:00:15.3243656+00:00:Thread cancelled
+2021-01-18T07:00:15.3373316+00:00:Thread#-1:Scheduler: get next test for thread -1
+2021-01-18T07:00:15.3373316+00:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-01-18T07:00:15.3373316+00:00:Thread#-1:Scheduler: considering testitem #6 for thread -1
+2021-01-18T07:00:15.3373316+00:00:Thread#-1:Scheduler: using testitem #6 for thread -1
+2021-01-18T07:00:15.3373316+00:00:Thread#-1:Scheduler: Test #6 is scheduled for thread
+2021-01-18T07:00:15.3373316+00:00:Thread#-1: Test #6/0 is started on thread #-1
+2021-01-18T07:00:15.3373316+00:00:Thread#-1: Test #6/0 is finished on thread #-1 as Skipped within 0 seconds
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: get next test for thread -1
+2021-01-18T07:00:15.3383285+00:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: considering testitem #7 for thread -1
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: using testitem #7 for thread -1
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: Test #7 is scheduled for thread
+2021-01-18T07:00:15.3383285+00:00:Thread#-1: Test #7/0 is started on thread #-1
+2021-01-18T07:00:15.3383285+00:00:Thread#-1: Test #7/0 is finished on thread #-1 as Skipped within 0 seconds
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: get next test for thread -1
+2021-01-18T07:00:15.3383285+00:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: considering testitem #8 for thread -1
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: using testitem #8 for thread -1
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: Test #8 is scheduled for thread
+2021-01-18T07:00:15.3383285+00:00:Thread#-1: Test #8/0 is started on thread #-1
+2021-01-18T07:00:15.3383285+00:00:Thread#-1: Test #8/0 is finished on thread #-1 as Skipped within 0 seconds
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: get next test for thread -1
+2021-01-18T07:00:15.3383285+00:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-18T07:00:15.3383285+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-01-18T07:00:15.3434817+00:00;Thread#13;Info;test run finished
+2021-01-18T07:00:15.3434817+00:00;Thread#13;Info;publishing test results
+2021-01-18T07:00:15.5418776+00:00;Thread#13;Info;test results published
+2021-01-18T07:00:15.5428756+00:00;Thread#13;Info;generating reports
+2021-01-18T07:00:15.8690106+00:00;Thread#13;Info;Starting external report generation process
+2021-01-18T07:00:19.2662025+00:00;Thread#13;Info;Successfully generated reports.
+2021-01-18T07:00:19.2692562+00:00;Thread#13;Info;Successfully generated reports
+2021-01-18T07:00:19.2841544+00:00:Total: 5
+2021-01-18T07:00:19.2881447+00:00:Succeeded: 1
+2021-01-18T07:00:19.2892414+00:00:Ignored: 0
+2021-01-18T07:00:19.2901390+00:00:Pending: 0
+2021-01-18T07:00:19.2901390+00:00:Skipped: 3
+2021-01-18T07:00:19.2911362+00:00:Failed: 1
+2021-01-18T07:00:19.3290367+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-01-18T07:00:19.3290367+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\bhagirath.vaghela\source\repos\TFL\TFL\TestResults\TFL_TFL_2021-01-18T065939.html'
+========== End of log file ==========

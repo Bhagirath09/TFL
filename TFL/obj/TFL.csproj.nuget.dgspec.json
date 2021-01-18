@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bhagirath.vaghela\\source\\repos\\TFL\\TFL\\TFL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bhagirath.vaghela\\source\\repos\\TFL\\TFL\\TFL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bhagirath.vaghela\\source\\repos\\TFL\\TFL\\TFL.csproj",
+        "projectName": "TFL",
+        "projectPath": "C:\\Users\\bhagirath.vaghela\\source\\repos\\TFL\\TFL\\TFL.csproj",
+        "packagesPath": "C:\\Users\\bhagirath.vaghela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bhagirath.vaghela\\source\\repos\\TFL\\TFL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bhagirath.vaghela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.gameassists.co.uk/nuget/Mgs.WebApi": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://wintechnologies.pkgs.visualstudio.com/_packaging/WinTechnologies/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[87.0.4280.8800, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.4.8, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.4.211, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.4.8, )"
+            },
+            "SpecRun.SpecFlow": {
+              "target": "Package",
+              "version": "[3.4.19, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
